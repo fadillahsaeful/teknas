@@ -1,0 +1,2 @@
+# teknas
+aplikasi
